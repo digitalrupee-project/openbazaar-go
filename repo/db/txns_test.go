@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"database/sql"
 	"encoding/hex"
-	"github.com/phoreproject/btcd/wire"
+	"github.com/digitalrupee-project/btcd/wire"
 	"testing"
 	"time"
 )

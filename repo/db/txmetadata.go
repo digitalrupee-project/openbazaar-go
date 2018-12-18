@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"sync"
 
-	"github.com/phoreproject/openbazaar-go/repo"
+	"github.com/digitalrupee-project/openbazaar-go/repo"
 )
 
 type TxMetadataDB struct {

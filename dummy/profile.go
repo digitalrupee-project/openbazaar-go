@@ -4,7 +4,7 @@ import (
 	"math/rand"
 
 	"github.com/icrowley/fake"
-	"github.com/phoreproject/openbazaar-go/pb"
+	"github.com/digitalrupee-project/openbazaar-go/pb"
 )
 
 func newRandomProfile(randomImages chan (*pb.Profile_Image)) *pb.Profile {

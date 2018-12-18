@@ -8,12 +8,12 @@ import (
 	"github.com/golang/protobuf/proto"
 	"github.com/golang/protobuf/ptypes"
 	"github.com/op/go-logging"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/openbazaar-go/api/notifications"
-	"github.com/phoreproject/openbazaar-go/core"
-	"github.com/phoreproject/openbazaar-go/pb"
-	"github.com/phoreproject/openbazaar-go/repo"
-	"github.com/phoreproject/wallet-interface"
+	"github.com/digitalrupee-project/btcd/chaincfg/chainhash"
+	"github.com/digitalrupee-project/openbazaar-go/api/notifications"
+	"github.com/digitalrupee-project/openbazaar-go/core"
+	"github.com/digitalrupee-project/openbazaar-go/pb"
+	"github.com/digitalrupee-project/openbazaar-go/repo"
+	"github.com/digitalrupee-project/wallet-interface"
 )
 
 var log = logging.MustGetLogger("transaction-listener")

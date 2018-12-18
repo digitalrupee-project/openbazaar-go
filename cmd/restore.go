@@ -17,8 +17,8 @@ import (
 	bitswap "github.com/ipfs/go-ipfs/exchange/bitswap/network"
 	"github.com/ipfs/go-ipfs/namesys"
 	"github.com/ipfs/go-ipfs/repo/config"
-	"github.com/phoreproject/openbazaar-go/ipfs"
-	obnet "github.com/phoreproject/openbazaar-go/net"
+	"github.com/digitalrupee-project/openbazaar-go/ipfs"
+	obnet "github.com/digitalrupee-project/openbazaar-go/net"
 
 	"bufio"
 	"errors"
@@ -43,8 +43,8 @@ import (
 	"github.com/ipfs/go-ipfs/core/coreunix"
 	ipfspath "github.com/ipfs/go-ipfs/path"
 	"github.com/ipfs/go-ipfs/repo/fsrepo"
-	"github.com/phoreproject/openbazaar-go/repo"
-	"github.com/phoreproject/openbazaar-go/repo/db"
+	"github.com/digitalrupee-project/openbazaar-go/repo"
+	"github.com/digitalrupee-project/openbazaar-go/repo/db"
 	"golang.org/x/crypto/ssh/terminal"
 	"golang.org/x/net/proxy"
 )

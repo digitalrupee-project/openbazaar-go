@@ -4,8 +4,8 @@ import (
 	"time"
 
 	"github.com/op/go-logging"
-	"github.com/phoreproject/openbazaar-go/repo"
-	"github.com/phoreproject/wallet-interface"
+	"github.com/digitalrupee-project/openbazaar-go/repo"
+	"github.com/digitalrupee-project/wallet-interface"
 )
 
 var log = logging.MustGetLogger("ResyncManager")

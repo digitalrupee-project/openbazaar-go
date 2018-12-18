@@ -21,8 +21,8 @@ import (
 	"github.com/imdario/mergo"
 	ipnspb "github.com/ipfs/go-ipfs/namesys/pb"
 	ipnspath "github.com/ipfs/go-ipfs/path"
-	"github.com/phoreproject/openbazaar-go/ipfs"
-	"github.com/phoreproject/openbazaar-go/pb"
+	"github.com/digitalrupee-project/openbazaar-go/ipfs"
+	"github.com/digitalrupee-project/openbazaar-go/pb"
 )
 
 const (

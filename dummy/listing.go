@@ -7,7 +7,7 @@ import (
 
 	"github.com/golang/protobuf/ptypes/timestamp"
 	"github.com/icrowley/fake"
-	"github.com/phoreproject/openbazaar-go/pb"
+	"github.com/digitalrupee-project/openbazaar-go/pb"
 )
 
 var conditions = []string{"New", "Used", "Bad", "Most Excellent"}

@@ -7,8 +7,8 @@ import (
 
 	"github.com/ipfs/go-ipfs/core"
 	"github.com/op/go-logging"
-	"github.com/phoreproject/openbazaar-go/ipfs"
-	"github.com/phoreproject/openbazaar-go/repo"
+	"github.com/digitalrupee-project/openbazaar-go/ipfs"
+	"github.com/digitalrupee-project/openbazaar-go/repo"
 	"golang.org/x/net/context"
 )
 

@@ -3,7 +3,7 @@ package db
 import (
 	"database/sql"
 	"encoding/json"
-	"github.com/phoreproject/openbazaar-go/repo"
+	"github.com/digitalrupee-project/openbazaar-go/repo"
 	"testing"
 )
 

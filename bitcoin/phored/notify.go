@@ -10,9 +10,9 @@ import (
 
 	"github.com/gorilla/websocket"
 	logging "github.com/op/go-logging"
-	"github.com/phoreproject/btcd/btcjson"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/wire"
+	"github.com/digitalrupee-project/btcd/btcjson"
+	"github.com/digitalrupee-project/btcd/chaincfg/chainhash"
+	"github.com/digitalrupee-project/btcd/wire"
 )
 
 var log = logging.MustGetLogger("phored")

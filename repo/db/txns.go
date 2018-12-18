@@ -3,9 +3,9 @@ package db
 import (
 	"bytes"
 	"database/sql"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/wire"
-	"github.com/phoreproject/wallet-interface"
+	"github.com/digitalrupee-project/btcd/chaincfg/chainhash"
+	"github.com/digitalrupee-project/btcd/wire"
+	"github.com/digitalrupee-project/wallet-interface"
 	"sync"
 	"time"
 )

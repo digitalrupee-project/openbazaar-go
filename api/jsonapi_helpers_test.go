@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phoreproject/openbazaar-go/bitcoin/phored"
-	"github.com/phoreproject/openbazaar-go/test"
+	"github.com/digitalrupee-project/openbazaar-go/bitcoin/phored"
+	"github.com/digitalrupee-project/openbazaar-go/test"
 
 	manet "gx/ipfs/QmX3U3YXCQ6UYBxq2LVWF8dARS1hPUTEYLrSx654Qyxyw6/go-multiaddr-net"
 	ma "gx/ipfs/QmXY77cVe7rVRQXZZQRioukUM7aRW3BTcAgJe12MCtb3Ji/go-multiaddr"

@@ -7,7 +7,7 @@ import (
 
 	"io/ioutil"
 
-	"github.com/phoreproject/openbazaar-go/repo"
+	"github.com/digitalrupee-project/openbazaar-go/repo"
 )
 
 // NewAPIConfig returns a new config object for the API tests

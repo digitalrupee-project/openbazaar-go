@@ -3,9 +3,9 @@ package cmd
 import (
 	"fmt"
 	"github.com/ipfs/go-ipfs/repo/fsrepo"
-	obnet "github.com/phoreproject/openbazaar-go/net"
-	"github.com/phoreproject/openbazaar-go/repo"
-	"github.com/phoreproject/openbazaar-go/repo/db"
+	obnet "github.com/digitalrupee-project/openbazaar-go/net"
+	"github.com/digitalrupee-project/openbazaar-go/repo"
+	"github.com/digitalrupee-project/openbazaar-go/repo/db"
 	"os"
 )
 

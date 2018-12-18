@@ -12,9 +12,9 @@ import (
 
 	"github.com/golang/protobuf/ptypes"
 	google_protobuf "github.com/golang/protobuf/ptypes/timestamp"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/openbazaar-go/pb"
-	"github.com/phoreproject/wallet-interface"
+	"github.com/digitalrupee-project/btcd/chaincfg/chainhash"
+	"github.com/digitalrupee-project/openbazaar-go/pb"
+	"github.com/digitalrupee-project/wallet-interface"
 )
 
 // Hash with SHA-256 and encode as a multihash

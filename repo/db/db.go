@@ -7,8 +7,8 @@ import (
 
 	_ "github.com/mutecomm/go-sqlcipher"
 	"github.com/op/go-logging"
-	"github.com/phoreproject/openbazaar-go/repo"
-	"github.com/phoreproject/wallet-interface"
+	"github.com/digitalrupee-project/openbazaar-go/repo"
+	"github.com/digitalrupee-project/wallet-interface"
 	"time"
 )
 

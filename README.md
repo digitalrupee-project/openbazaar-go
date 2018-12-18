@@ -1,6 +1,6 @@
 # Phore Marketplace Server Daemon in Go
 
-This repository contains the Phore Marketplace server daemon which handles the heavy lifting for the Phore Marketplace desktop application. The server combines several technologies: A modified [IPFS](https://ipfs.io) node, which itself combines ideas from Git, BitTorrent, and Kademlia. A lightweight RPC Phore wallet for interacting with the Phore network. And a JSON API which can be used by a user interface to control the node and browse the network. If you are looking for the Phore Marketplace user interface code see [here](https://github.com/phoreproject/openbazaar-desktop).
+This repository contains the Phore Marketplace server daemon which handles the heavy lifting for the Phore Marketplace desktop application. The server combines several technologies: A modified [IPFS](https://ipfs.io) node, which itself combines ideas from Git, BitTorrent, and Kademlia. A lightweight RPC Phore wallet for interacting with the Phore network. And a JSON API which can be used by a user interface to control the node and browse the network. If you are looking for the Phore Marketplace user interface code see [here](https://github.com/digitalrupee-project/openbazaar-desktop).
 
 ## Table of Contents
 
@@ -19,15 +19,15 @@ This repository contains the Phore Marketplace server daemon which handles the h
 
 ## Install
 
-A typical install of PhoreMarketplace contains a bundle of the server daemon and user interface. If this is what you are looking for you can find an installer at https://github.com/phoreproject/openbazaar-desktop/releases. If you are looking to run the server daemon by itself or to contribute to developement see below for instructions.
+A typical install of PhoreMarketplace contains a bundle of the server daemon and user interface. If this is what you are looking for you can find an installer at https://github.com/digitalrupee-project/openbazaar-desktop/releases. If you are looking to run the server daemon by itself or to contribute to developement see below for instructions.
 
 ### Install Pre-built Packages
 
-The easiest way to run the server is to download a pre-built binary. You can find binaries of our latest release for each operating system [here](https://github.com/phoreproject/openbazaar-go/releases/).
+The easiest way to run the server is to download a pre-built binary. You can find binaries of our latest release for each operating system [here](https://github.com/digitalrupee-project/openbazaar-go/releases/).
 
 ### Build from Source
 
-To build from source you will need to have Go installed and properly configured. Detailed instructions for installing Go and openbazaar-go on each operating system can be found in the [docs package](https://github.com/phoreproject/openbazaar-go/tree/master/docs).
+To build from source you will need to have Go installed and properly configured. Detailed instructions for installing Go and openbazaar-go on each operating system can be found in the [docs package](https://github.com/digitalrupee-project/openbazaar-go/tree/master/docs).
 
 ## Dependency Management
 
@@ -39,7 +39,7 @@ We are using a [fork](https://github.com/OpenBazaar/go-ipfs) of go-ipfs in the d
 
 ## Updating
 
-You can either pull in remote changes as normal or run `go get -u github.com/phoreproject/openbazaar-go`
+You can either pull in remote changes as normal or run `go get -u github.com/digitalrupee-project/openbazaar-go`
 
 ## Usage
 
@@ -89,7 +89,7 @@ Help Options:
 
 ## Contributing
 
-Contributions are definitely welcome! Please read the contributing [guidelines](https://github.com/phoreproject/openbazaar-go/blob/master/CONTRIBUTE.md) before starting.
+Contributions are definitely welcome! Please read the contributing [guidelines](https://github.com/digitalrupee-project/openbazaar-go/blob/master/CONTRIBUTE.md) before starting.
 
 ## License
 

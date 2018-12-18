@@ -2,7 +2,7 @@ package db
 
 import (
 	"database/sql"
-	notif "github.com/phoreproject/openbazaar-go/api/notifications"
+	notif "github.com/digitalrupee-project/openbazaar-go/api/notifications"
 	"testing"
 	"time"
 )

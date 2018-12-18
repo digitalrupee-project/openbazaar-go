@@ -4,9 +4,9 @@ import (
 	"testing"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/phoreproject/openbazaar-go/core"
-	"github.com/phoreproject/openbazaar-go/pb"
-	"github.com/phoreproject/openbazaar-go/test"
+	"github.com/digitalrupee-project/openbazaar-go/core"
+	"github.com/digitalrupee-project/openbazaar-go/pb"
+	"github.com/digitalrupee-project/openbazaar-go/test"
 )
 
 func TestOpenBazaarNode_CalculateOrderTotal(t *testing.T) {

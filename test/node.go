@@ -4,12 +4,12 @@ import (
 	peer "gx/ipfs/QmXYjuNuxVzXKJCfWasQk1RqkhVLDM9jtUKhqc2WPQmFSB/go-libp2p-peer"
 	crypto "gx/ipfs/QmaPbCnUMBohSGo3KnxEa2bHqyJVVeEEcwtqJAYxerieBo/go-libp2p-crypto"
 
-	"github.com/phoreproject/btcd/chaincfg"
-	"github.com/phoreproject/openbazaar-go/bitcoin/phored"
-	"github.com/phoreproject/openbazaar-go/core"
-	"github.com/phoreproject/openbazaar-go/ipfs"
-	"github.com/phoreproject/openbazaar-go/net"
-	"github.com/phoreproject/openbazaar-go/net/service"
+	"github.com/digitalrupee-project/btcd/chaincfg"
+	"github.com/digitalrupee-project/openbazaar-go/bitcoin/phored"
+	"github.com/digitalrupee-project/openbazaar-go/core"
+	"github.com/digitalrupee-project/openbazaar-go/ipfs"
+	"github.com/digitalrupee-project/openbazaar-go/net"
+	"github.com/digitalrupee-project/openbazaar-go/net/service"
 	bip39 "github.com/tyler-smith/go-bip39"
 )
 

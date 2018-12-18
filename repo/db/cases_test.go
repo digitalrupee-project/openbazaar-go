@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/ptypes"
-	"github.com/phoreproject/openbazaar-go/pb"
+	"github.com/digitalrupee-project/openbazaar-go/pb"
 )
 
 var casesdb CasesDB

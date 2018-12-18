@@ -7,10 +7,10 @@ import (
 	"time"
 
 	"github.com/OpenBazaar/jsonpb"
-	btc "github.com/phoreproject/btcutil"
-	"github.com/phoreproject/openbazaar-go/pb"
-	"github.com/phoreproject/openbazaar-go/repo"
-	"github.com/phoreproject/wallet-interface"
+	btc "github.com/digitalrupee-project/btcutil"
+	"github.com/digitalrupee-project/openbazaar-go/pb"
+	"github.com/digitalrupee-project/openbazaar-go/repo"
+	"github.com/digitalrupee-project/wallet-interface"
 )
 
 type PurchasesDB struct {

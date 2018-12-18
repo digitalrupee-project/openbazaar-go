@@ -13,8 +13,8 @@ import (
 	"github.com/golang/protobuf/proto"
 	"github.com/golang/protobuf/ptypes"
 	"github.com/golang/protobuf/ptypes/any"
-	"github.com/phoreproject/openbazaar-go/ipfs"
-	"github.com/phoreproject/openbazaar-go/pb"
+	"github.com/digitalrupee-project/openbazaar-go/ipfs"
+	"github.com/digitalrupee-project/openbazaar-go/pb"
 	"golang.org/x/net/context"
 )
 

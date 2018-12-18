@@ -5,8 +5,8 @@ import (
 	crypto "gx/ipfs/QmaPbCnUMBohSGo3KnxEa2bHqyJVVeEEcwtqJAYxerieBo/go-libp2p-crypto"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/phoreproject/btcd/btcec"
-	"github.com/phoreproject/openbazaar-go/pb"
+	"github.com/digitalrupee-project/btcd/btcec"
+	"github.com/digitalrupee-project/openbazaar-go/pb"
 )
 
 type noSigError struct{}

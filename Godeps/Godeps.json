@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/phoreproject/openbazaar-go",
+	"ImportPath": "github.com/digitalrupee-project/openbazaar-go",
 	"GoVersion": "go1.9",
 	"GodepVersion": "v79",
 	"Deps": [
@@ -16,7 +16,7 @@
 			"Rev": "4f3d139e1938ba2d60730665a7878e784bf2d37a"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/wallet-interface",
+			"ImportPath": "github.com/digitalrupee-project/wallet-interface",
 			"Rev": "599ef28caef087c5732f9d046468a46f3a513aa9"
 		},
 		{
@@ -25,57 +25,57 @@
 			"Rev": "d97499360d1ecebc492ea66c7447ea948f417620"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcd/addrmgr",
+			"ImportPath": "github.com/digitalrupee-project/btcd/addrmgr",
 			"Comment": "BTCD_0_12_0_BETA-563-g7e5e6b4",
 			"Rev": "7e5e6b46106fc23c49c6f51609e6975d7decc966"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcd/blockchain",
+			"ImportPath": "github.com/digitalrupee-project/btcd/blockchain",
 			"Comment": "BTCD_0_12_0_BETA-563-g7e5e6b4",
 			"Rev": "7e5e6b46106fc23c49c6f51609e6975d7decc966"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcd/btcec",
+			"ImportPath": "github.com/digitalrupee-project/btcd/btcec",
 			"Comment": "BTCD_0_12_0_BETA-563-g7e5e6b4",
 			"Rev": "7e5e6b46106fc23c49c6f51609e6975d7decc966"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcd/btcjson",
+			"ImportPath": "github.com/digitalrupee-project/btcd/btcjson",
 			"Comment": "BTCD_0_12_0_BETA-563-g7e5e6b4",
 			"Rev": "7e5e6b46106fc23c49c6f51609e6975d7decc966"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcd/chaincfg",
+			"ImportPath": "github.com/digitalrupee-project/btcd/chaincfg",
 			"Comment": "BTCD_0_12_0_BETA-563-g7e5e6b4",
 			"Rev": "7e5e6b46106fc23c49c6f51609e6975d7decc966"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcd/chaincfg/chainhash",
+			"ImportPath": "github.com/digitalrupee-project/btcd/chaincfg/chainhash",
 			"Comment": "BTCD_0_12_0_BETA-563-g7e5e6b4",
 			"Rev": "7e5e6b46106fc23c49c6f51609e6975d7decc966"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcd/connmgr",
+			"ImportPath": "github.com/digitalrupee-project/btcd/connmgr",
 			"Comment": "BTCD_0_12_0_BETA-563-g7e5e6b4",
 			"Rev": "7e5e6b46106fc23c49c6f51609e6975d7decc966"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcd/database",
+			"ImportPath": "github.com/digitalrupee-project/btcd/database",
 			"Comment": "BTCD_0_12_0_BETA-563-g7e5e6b4",
 			"Rev": "7e5e6b46106fc23c49c6f51609e6975d7decc966"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcd/peer",
+			"ImportPath": "github.com/digitalrupee-project/btcd/peer",
 			"Comment": "BTCD_0_12_0_BETA-563-g7e5e6b4",
 			"Rev": "7e5e6b46106fc23c49c6f51609e6975d7decc966"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcd/txscript",
+			"ImportPath": "github.com/digitalrupee-project/btcd/txscript",
 			"Comment": "BTCD_0_12_0_BETA-563-g7e5e6b4",
 			"Rev": "7e5e6b46106fc23c49c6f51609e6975d7decc966"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcd/wire",
+			"ImportPath": "github.com/digitalrupee-project/btcd/wire",
 			"Comment": "BTCD_0_12_0_BETA-563-g7e5e6b4",
 			"Rev": "7e5e6b46106fc23c49c6f51609e6975d7decc966"
 		},
@@ -89,37 +89,37 @@
 			"Rev": "62b15b5db2619224d174239e3f71f6f37305346d"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcutil",
+			"ImportPath": "github.com/digitalrupee-project/btcutil",
 			"Comment": "BTCUTIL_0_5_0-32-g501929d",
 			"Rev": "501929d3d046174c3d39f0ea54ece471aa17238c"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcutil/base58",
+			"ImportPath": "github.com/digitalrupee-project/btcutil/base58",
 			"Comment": "BTCUTIL_0_5_0-32-g501929d",
 			"Rev": "501929d3d046174c3d39f0ea54ece471aa17238c"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcutil/bech32",
+			"ImportPath": "github.com/digitalrupee-project/btcutil/bech32",
 			"Comment": "BTCUTIL_0_5_0-32-g501929d",
 			"Rev": "501929d3d046174c3d39f0ea54ece471aa17238c"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcutil/bloom",
+			"ImportPath": "github.com/digitalrupee-project/btcutil/bloom",
 			"Comment": "BTCUTIL_0_5_0-32-g501929d",
 			"Rev": "501929d3d046174c3d39f0ea54ece471aa17238c"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcutil/coinset",
+			"ImportPath": "github.com/digitalrupee-project/btcutil/coinset",
 			"Comment": "BTCUTIL_0_5_0-32-g501929d",
 			"Rev": "501929d3d046174c3d39f0ea54ece471aa17238c"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcutil/hdkeychain",
+			"ImportPath": "github.com/digitalrupee-project/btcutil/hdkeychain",
 			"Comment": "BTCUTIL_0_5_0-32-g501929d",
 			"Rev": "501929d3d046174c3d39f0ea54ece471aa17238c"
 		},
 		{
-			"ImportPath": "github.com/phoreproject/btcutil/txsort",
+			"ImportPath": "github.com/digitalrupee-project/btcutil/txsort",
 			"Comment": "BTCUTIL_0_5_0-32-g501929d",
 			"Rev": "501929d3d046174c3d39f0ea54ece471aa17238c"
 		},

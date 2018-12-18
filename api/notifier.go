@@ -7,9 +7,9 @@ import (
 
 	"errors"
 
-	"github.com/phoreproject/openbazaar-go/api/notifications"
-	"github.com/phoreproject/openbazaar-go/core"
-	"github.com/phoreproject/openbazaar-go/repo"
+	"github.com/digitalrupee-project/openbazaar-go/api/notifications"
+	"github.com/digitalrupee-project/openbazaar-go/core"
+	"github.com/digitalrupee-project/openbazaar-go/repo"
 )
 
 // Notification manager intercepts data form 'inChan' which is embedded

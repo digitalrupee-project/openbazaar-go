@@ -9,15 +9,15 @@ import (
 	"sync"
 	"time"
 
-	"github.com/phoreproject/btcd/blockchain"
-	"github.com/phoreproject/btcd/chaincfg"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/txscript"
-	"github.com/phoreproject/btcd/wire"
-	"github.com/phoreproject/btcutil"
-	"github.com/phoreproject/btcutil/bloom"
-	"github.com/phoreproject/spvwallet"
-	wallet "github.com/phoreproject/wallet-interface"
+	"github.com/digitalrupee-project/btcd/blockchain"
+	"github.com/digitalrupee-project/btcd/chaincfg"
+	"github.com/digitalrupee-project/btcd/chaincfg/chainhash"
+	"github.com/digitalrupee-project/btcd/txscript"
+	"github.com/digitalrupee-project/btcd/wire"
+	"github.com/digitalrupee-project/btcutil"
+	"github.com/digitalrupee-project/btcutil/bloom"
+	"github.com/digitalrupee-project/spvwallet"
+	wallet "github.com/digitalrupee-project/wallet-interface"
 )
 
 // TxStore handles transactions we've sent and our addresses

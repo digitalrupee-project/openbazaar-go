@@ -5,10 +5,10 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	"github.com/ipfs/go-ipfs/commands"
-	"github.com/phoreproject/openbazaar-go/ipfs"
-	"github.com/phoreproject/openbazaar-go/net"
-	"github.com/phoreproject/openbazaar-go/pb"
-	"github.com/phoreproject/openbazaar-go/repo"
+	"github.com/digitalrupee-project/openbazaar-go/ipfs"
+	"github.com/digitalrupee-project/openbazaar-go/net"
+	"github.com/digitalrupee-project/openbazaar-go/pb"
+	"github.com/digitalrupee-project/openbazaar-go/repo"
 	"golang.org/x/net/proxy"
 
 	"github.com/ipfs/go-ipfs/core"
